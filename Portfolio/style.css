@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0f172a;
+    color: #f8fafc;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  header {
+    text-align: center;
+    background-color: #1e293b;
+    padding: 2rem 1rem;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  header nav a {
+    margin: 0 1rem;
+    color: #38bdf8;
+    text-decoration: none;
+  }
+  section {
+    padding: 2rem;
+  }
+  .project {
+    background-color: #1e293b;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  .project a {
+    color: #38bdf8;
+  }
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #1e293b;
+    font-size: 0.9rem;
+  }
+  
